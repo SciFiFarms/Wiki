@@ -2,13 +2,46 @@
 title: Untitled Page
 description: 
 published: true
-date: 2020-10-05T03:30:35.691Z
+date: 2020-10-21T03:41:57.130Z
 tags: 
-editor: undefined
+editor: markdown
 dateCreated: 2020-10-05T03:30:34.427Z
 ---
 
-# Header
+# Overview
+This wiki is intened to be the place to store anything related to SciFi Farms or TechnoCore. 
+
+## What is a SciFi Farm? 
+It is an approach to running a farm that relies heavily on automating the various components of a farm as well as collects and presents the various sensor readings. 
+
+## What is the SciFi Farm Stack? 
+It is a stack of open source services to be used in running a SciFi Farm. It relies heavily on open source and IoT (Internet of Things) technologies that have been modified and preconfigured to work together. It's deployed and managed using TechnoCore to make installation/deployment easy and envs from development to production consistent. 
+
+### Core Services:
+- ESPHome
+- Grafana
+- VerneMQ
+- Home Assistant
+- InfluxDB
+- Traefik 
+- Hashicorps Vault
+- SMTP Relay
+
+
+### Supporting Services:
+- Syncthing
+- Jupyter Notebooks
+- Node Red
+
+
+## What is TechnoCore?
+TechnoCore is a framework for deploying various Docker services into a Swarm cluster. It takes multiple repos with a specific layout and uses that to generate and combine docker-compose.yaml files that ultimately get deployed to a Docker Swarm. The methods of configuration from Docker images vary greatly and don't usually share a standard way to configure and initilize, so TechnoCore tries to take a standarized approach and has solutions for commonly found anti-patterns. Currently, it's primary purpose is to create and manage SciFi Farm instances, but it can do more than that; for example, this wiki is being ran by TechnoCore!
+
+
+## What is a SeedShip?
+A SeedShip is a growing environment ran by a SciFi Farm. Presently the main growing condition 
+
+
 Your content here
 ![image.png](/image.png)
 ```diagram
