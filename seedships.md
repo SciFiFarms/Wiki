@@ -2,11 +2,14 @@
 title: SeedShips
 description: 
 published: true
-date: 2020-10-21T03:58:39.558Z
+date: 2020-11-03T03:00:01.293Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-21T03:58:39.558Z
 ---
+
+## What is a SeedShip?
+A SeedShip is a growing environment managed by a SciFi Farm instance.  
 
 # From PR
 What     they control
