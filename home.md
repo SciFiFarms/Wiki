@@ -2,7 +2,7 @@
 title: Overview
 description: 
 published: true
-date: 2020-11-03T03:02:28.576Z
+date: 2020-11-03T03:08:15.226Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-05T03:30:34.427Z
@@ -22,19 +22,18 @@ Fundamentially, SeedShips are CEA (Controlled Environment Agrculture) environmen
 How to get a functional development enviornment as well as the assumptions that must be satisfied in order for things to happen automagically. 
 - **[Contributing](/technocore/contributing)** 
 For a long time, I was unable to support contributors because the architeture and services were changing so frequently, but that has changed and this documentation is written with the hope that others will read it and have something to add. 
-- **SciFi Farm** (Not yet started)
-Information and notes on the business side of SciFi Farms
-- **Controlled Environment Agriculture** (Not yet started)
+- **[SciFi Farm](/sff)**
+Information and notes on the business side of SciFi Farms.
+- **[Controlled Environment Agriculture](/cea)**
 Notes and resources for what you might need to run your own controlled enviornment. 
-
 
 ### Core Services:
 Funamentially, TechnoCore is designed to run other services. Here is documentation for the ones that are currently utilized: 
 - [ESPHome](/technocore/service/esphome)
 - [Grafana](/technocore/service/grafana)
-- [VerneMQ](/technocore/service/vernemq) (not yet created)
+- [VerneMQ](/technocore/service/vernemq) 
 - [Home Assistant](/technocore/service/home-assistant)
-- [InfluxDB](/technocore/service/influxdb) (not yet created)
+- [InfluxDB](/technocore/service/influxdb)
 - [Traefik](/technocore/service/traefik)
 - [Hashicorps Vault](/technocore/service/vault) (not yet created)
 - [SMTP Relay](/technocore/service/smtp) (not yet created)
