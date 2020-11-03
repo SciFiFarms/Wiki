@@ -2,7 +2,7 @@
 title: Overview
 description: 
 published: true
-date: 2020-11-03T03:08:15.226Z
+date: 2020-11-03T03:12:22.869Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-05T03:30:34.427Z
@@ -35,14 +35,13 @@ Funamentially, TechnoCore is designed to run other services. Here is documentati
 - [Home Assistant](/technocore/service/home-assistant)
 - [InfluxDB](/technocore/service/influxdb)
 - [Traefik](/technocore/service/traefik)
-- [Hashicorps Vault](/technocore/service/vault) (not yet created)
-- [SMTP Relay](/technocore/service/smtp) (not yet created)
+- [Hashicorps Vault](/technocore/service/vault)
+- [SMTP Relay](/technocore/service/smtp)
 
 ### Supporting Services:
-- [Syncthing](/technocore/service/syncthing) (not yet created)
-- [Jupyter Notebooks](/technocore/service/jupyter) (not yet created)
-- [Node Red](/technocore/service/node-red) (not yet created)
-
+- [Syncthing](/technocore/service/syncthing)
+- [Jupyter Notebooks](/technocore/service/jupyter)
+- [Node Red](/technocore/service/node-red)
 
 
 
