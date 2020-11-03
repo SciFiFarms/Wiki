@@ -2,7 +2,7 @@
 title: Overview
 description: 
 published: true
-date: 2020-11-03T03:12:50.011Z
+date: 2020-11-03T03:14:43.678Z
 tags: 
 editor: markdown
 dateCreated: 2020-10-05T03:30:34.427Z
@@ -42,6 +42,8 @@ Funamentially, TechnoCore is designed to run other services. Here is documentati
 - [Syncthing](/technocore/service/syncthing)
 - [Jupyter Notebooks](/technocore/service/jupyter)
 - [Node Red](/technocore/service/node-red)
+
+
 
 
 
